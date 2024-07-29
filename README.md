@@ -44,6 +44,11 @@ To set up the FL Studio Discord Rich Presence integration, follow these steps:
 - **Dependencies:**
   - This setup assumes that you have FL Studio installed and that the executables and assets are correctly placed in the same directory as `FL64.exe`.
 
+## Changelog
+### v1.0.0
+- First public working release
+- In future updates there may not be any need for the exe file or batch script, Rich presence will work automatically when opening FL Studio.
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](LICENSE) file for details.
