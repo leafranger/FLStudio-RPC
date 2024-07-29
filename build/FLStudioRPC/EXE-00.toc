@@ -1,9 +1,9 @@
 ('D:\\mirko\\Documents\\My Projects\\Python\\FLStudio '
  'RPC\\dist\\FLStudioRPC.exe',
- True,
  False,
  False,
- ['D:\\mirko\\Documents\\My Projects\\Python\\FLStudio RPC\\icon.ico'],
+ False,
+ ['D:\\mirko\\Documents\\My Projects\\Python\\FLStudio RPC\\assets\\icon.ico'],
  None,
  False,
  False,
@@ -295,9 +295,9 @@
  [],
  False,
  False,
- 1722217183,
- [('run.exe',
+ 1722218857,
+ [('runw.exe',
    'd:\\mirko\\Documents\\My Projects\\Python\\FLStudio '
-   'RPC\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
+   'RPC\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')],
  'C:\\Users\\mirko\\AppData\\Local\\Programs\\Python\\Python312\\python312.dll')
