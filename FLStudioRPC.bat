@@ -4,7 +4,7 @@ setlocal
 :: Define paths
 set "scriptDir=%~dp0"
 set "scriptPath=%scriptDir%\FLStudioRPC.bat"
-set "fl64Path=%scriptDir%FL64.exe"
+set "fl64Path=%scriptDir%..\FL64.exe"
 set "flstudioRPCPath=%scriptDir%assets\FLStudioRPC.exe"
 set "iconPath=%scriptDir%assets\icon.ico"
 set "shortcutName=FL Studio RPC"
